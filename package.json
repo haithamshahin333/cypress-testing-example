@@ -1,0 +1,23 @@
+{
+  "name": "repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "e2e:ci": "cypress run --headless --browser chrome"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haithamshahin333/cypress-testing-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haithamshahin333/cypress-testing-example/issues"
+  },
+  "homepage": "https://github.com/haithamshahin333/cypress-testing-example#readme",
+  "devDependencies": {
+    "cypress": "^4.10.0"
+  }
+}

@@ -1,0 +1,10 @@
+{
+    "fixturesFolder": false,
+    "screenshotsFolder": false,
+    "supportFile": "cypress/support/index.js",
+    "testFiles": "**/*.js",
+    "video": false,
+    "defaultCommandTimeout": 10000,
+    "requestTimeout": 10000
+  }
+  
